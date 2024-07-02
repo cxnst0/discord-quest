@@ -1,3 +1,5 @@
+![Completed a Quest Badge](https://preview.redd.it/new-discord-badge-completed-a-quest-v0-sn75n6npugwc1.png?auto=webp&s=c445c81ddcf9e01d9c998e6e376a465e0d20b6f6)
+
 # Discord Quest
 Created to quickly complete Discord quests without running games or streams.
 
