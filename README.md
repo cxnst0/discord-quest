@@ -1,4 +1,4 @@
-#What You Get After Completing the Quest (Badge and Avatar Decoration)
+# What You Get After Completing the Quest (Badge and Avatar Decoration)
 
 ![Completed a Quest Badge](https://preview.redd.it/new-discord-badge-completed-a-quest-v0-sn75n6npugwc1.png?auto=webp&s=c445c81ddcf9e01d9c998e6e376a465e0d20b6f6)
 ![Fortnite Victory Crown Avatar Decoration](https://cdn.discordapp.com/attachments/1254676261650038834/1257813010513133670/image.png?ex=6685c526&is=668473a6&hm=416fb8ffd29fe391483ba4e2dfeebcacedc436ad5de9d44fc30ba87f29d7442a&)
